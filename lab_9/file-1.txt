@@ -1,0 +1,4 @@
+Hello user!
+How are you...
+THANK YOU FOR ACCESSING FILE THROUGH PYTHON CODE
+Hello
